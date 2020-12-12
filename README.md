@@ -9,7 +9,7 @@
 
 :mailbox: Reach me out!
 
-[![Linkedin Badge](https://img.shields.io/badge/-sourav-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sourav-dwivedi/) [![Mail Badge](https://img.shields.io/badge/-sourav?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:souravdwivedi@outlook.in)
+[![Linkedin Badge](https://img.shields.io/badge/-sourav-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sourav-dwivedi/) [![Mail Badge](https://img.shields.io/badge/-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:souravdwivedi@outlook.in)
 
 <a href="https://dev.to/srvdwivedi">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Sourav Dwivedi's DEV Profile" height="40" width="40">
