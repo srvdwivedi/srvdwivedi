@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Laravel 
 - 🌱 I’m currently learning Nodejs, ML concepts
 - 🤔 I’m looking for help with in Machine Learning
