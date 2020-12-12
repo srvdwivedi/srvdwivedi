@@ -4,7 +4,6 @@
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🌱 I’m currently learning Nodejs, ML concepts
 - 🤔 I’m looking for help with in Machine Learning
-- smile Pronouns: srvdwivedi
 - 💬 Ask me about Python 
 - 📫 How to reach me: souravdwivedi@outlook.in
 
