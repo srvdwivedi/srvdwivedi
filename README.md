@@ -1,8 +1,8 @@
 ## Hi I'm Sourav Dwivedi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-- 🔭 I’m currently working on Reactjs 
+- 🔭 I’m currently working on JavaScript 
 - :computer: Most used line of code `git commit -m "Initial Commit"`
-- 🌱 I’m currently learning Reactjs,Nodejs
+- 🌱 I’m currently learning Reactjs, Redux, Nextjs
 - - 🤔 I’m ready to help with Web Development.
 - 💬 Ask me about Javascript 
 - 📫 How to reach me: souravdwivedi@outlook.in
